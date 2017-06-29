@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_color">#4A312A</color>
+    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="category_restaurants">#5ac9c8</color>
+    <color name="category_hotels">#58c6a4</color>
+    <color name="category_spas">#55c481</color>
+    <color name="category_sights">#52c25d</color>
+</resources>

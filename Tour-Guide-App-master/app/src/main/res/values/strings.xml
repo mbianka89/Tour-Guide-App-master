@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Discover Budapest!</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_spas">Spas</string>
+    <string name="category_sights">Sights</string>
+    <string name="hotel1">"Kempinski Hotel Corvinus"</string>
+    <string name="hotel2">+36 1 429 3777</string>
+    <string name="spa1">Spa1</string>
+    <string name="spa2">Spa2</string>
+
+    <string name="restaurant1">Restaurant1</string>
+    <string name="restaurant2">Restaurant2</string>
+    <string name="restaurant_name1">Trofea Grill Restaurant</string>
+    <string name="restaurant_tel1">+36 1 251 6377</string>
+    <string name="restaurant_name2">Árnyas Restaurant</string>
+    <string name="restaurant_tel2">+36 1 212 5681</string>
+    <string name="restaurant_name3">Sir Lancelot Restaurant</string>
+    <string name="restaurant_tel3">+36 1 302 4456</string>
+    <string name="restaurant_name4">Golden Caviar Restaurant</string>
+    <string name="restaurant_tel4">+36 1 201 6737</string>
+
+    <string name="hotel_name1">Kempinski Hotel Corvinus</string>
+    <string name="hotel_tel1">+36 1 429 3777</string>
+    <string name="hotel_name2">Corinthia Hotel</string>
+    <string name="hotel_tel2">+36 1 479 4000</string>
+    <string name="hotel_name3">Bohem Art Hotel</string>
+    <string name="hotel_tel3">+36 1 327 9020</string>
+    <string name="hotel_name4">Prestige Hotel</string>
+    <string name="hotel_tel4">+36 1 920 1000</string>
+
+    <string name="spa_name1">Gellért Thermal Bath</string>
+    <string name="spa_address1">Budapest, Kelenhegyi út 4, 1118</string>
+    <string name="spa_name2">Kiraly Medicinal Bath</string>
+    <string name="spa_address2">Budapest, Fő u. 84, 1027</string>
+    <string name="spa_name3">Széchenyi Thermal Bath</string>
+    <string name="spa_address3">Budapest, Állatkerti krt. 9_11, 1146</string>
+    <string name="spa_name4">Rudas Baths</string>
+    <string name="spa_address4">Budapest, Döbrentei tér 9, 1013</string>
+
+    <string name="sight_name1">Parlaiment</string>
+    <string name="sight_address1">Budapest, Kossuth Lajos tér 1_3, 1055</string>
+    <string name="sight_name2">National Museum</string>
+    <string name="sight_address2">Budapest, Múzeum krt. 14_16, 1088</string>
+    <string name="sight_name3">St Stephen`s Basilica</string>
+    <string name="sight_address3">Budapest, Szent István tér 1, 1051</string>
+    <string name="sight_name4">The Chain Bridge</string>
+    <string name="sight_address4">Budapest Széchenyi Lánchíd, 1051</string>
+
+
+
+</resources>
